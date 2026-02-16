@@ -1,0 +1,9 @@
+{
+  "name": "Nexus P2P Video",
+  "description": "A professional-grade Peer-to-Peer video conferencing application with WebRTC and a Gemini-powered meeting assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
